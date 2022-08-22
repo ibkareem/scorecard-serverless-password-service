@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "scorecard-password-service-executor",
+    "name": "scorecard-password-service",
+    "region": "us-east-1"
+  }
+}
